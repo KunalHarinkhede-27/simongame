@@ -1,7 +1,7 @@
 Project Overview
 The Simon Game is a memory-based game built using HTML, CSS, and JavaScript. The game generates a sequence of colors that the player must memorize and repeat in the correct order. With each correct sequence, the game progresses to the next level, increasing the difficulty.
 
-🔹 Features
+🔹 Features 
 ✔ Interactive UI – Smooth and engaging user interface with animations.
 ✔ Random Sequence Generation – Each level generates a unique color pattern.
 ✔ Player Input Detection – Users must follow the correct sequence to advance.
