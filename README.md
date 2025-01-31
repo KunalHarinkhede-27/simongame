@@ -10,14 +10,14 @@ The Simon Game is a memory-based game built using HTML, CSS, and JavaScript. The
 - Fully Responsive – Works on all devices (desktop & mobile).
 
 Tech Stack
-HTML5 – Structuring the game interface.
-CSS3 – Styling and animations.
-JavaScript – Game logic and user interactions.
+- HTML5 – Structuring the game interface.
+- CSS3 – Styling and animations.
+- JavaScript – Game logic and user interactions.
 
-How to Run Locally
-Clone the repository:
-git clone https://github.com/KunalHarinkhede-27/simongame.git
-Open the index.html file in your browser to play the game!
-Summary
+* How to Run Locally
+- Clone the repository:
+- git clone https://github.com/KunalHarinkhede-27/simongame.git
+- Open the index.html file in your browser to play the game!
+* Summary
 This project showcases JavaScript-based game development with real-time user interactions, event handling, and animations. The Simon Game is a great example of improving memory skills while having fun!
-Contact: If any query react out at Email: kunalharinkhede277@gmail.com
+* Contact: If any query react out at Email: kunalharinkhede277@gmail.com
